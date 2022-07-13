@@ -19,4 +19,4 @@ Técnico em Redes de Computadores pelo SENAI e Advogado pela UNIEURO, migrando p
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulosjnr&repo=paulosjnr.github.io)](https://github.com/paulosjnr/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulosjnr&repo=paulosjnr.github.io)](https://github.com/paulosjnr/paulosjnr.github.io)
