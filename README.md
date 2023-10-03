@@ -2,7 +2,7 @@
 
 #Biografia
 
-Técnico em Redes de Computadores pelo SENAI e Advogado pela UNIEURO, migrando para área DEV com foco em Backend. Estudando linguagem Python. 
+Técnico em Redes de Computadores pelo SENAI e Advogado pela UNIEURO, migrando para área DEV com foco em Backend. Estudando PHP. 
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
