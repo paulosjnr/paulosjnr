@@ -1,6 +1,6 @@
 ### Olá 👋
 
-#Biografia
+# Biografia
 
 Técnico em Redes de Computadores pelo SENAI e Advogado pela UNIEURO, migrando para área DEV com foco em Backend. Estudando PHP. 
 
@@ -19,3 +19,4 @@ Técnico em Redes de Computadores pelo SENAI e Advogado pela UNIEURO, migrando p
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulosjnr&repo=paulosjnr.github.io)](https://paulosjnr.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulosjnr&repo=ProjetoOnePiece)](https://paulosjnr.github.io/ProjetoOnePiece/)
